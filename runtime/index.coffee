@@ -1,0 +1,1 @@
+if window? then window.XRegExp = require( 'xregexp' ).XRegExp;

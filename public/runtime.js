@@ -2,9 +2,6 @@
 if (typeof window !== "undefined" && window !== null) {
   window.XRegExp = require('xregexp').XRegExp;
 }
-
-
-
 },{"xregexp":2}],2:[function(require,module,exports){
 
 /***** xregexp.js *****/
